@@ -1,2 +1,2 @@
 # NQUEENS-Finder
-Its a backtracking approach implemented in python 
+Its a backtracking approach implemented using python 
